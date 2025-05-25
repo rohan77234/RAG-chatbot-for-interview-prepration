@@ -1,0 +1,18 @@
+SKILLS:
+- Python, TensorFlow, Keras, Pandas
+- Data Analysis, Machine Learning
+- SQL, Linux, Git
+
+EXPERIENCE:
+Fox Trading (2022):
+- Developed ML models for medical diagnosis
+- Built image classification systems
+
+PROJECTS:
+Change Detection:
+- Implemented neural networks for video analysis
+- Achieved 94% accuracy on test data
+
+ABOUT:
+Rohan Sharma - ML Engineer with 2+ years experience
+Specializing in computer vision and data systemsx

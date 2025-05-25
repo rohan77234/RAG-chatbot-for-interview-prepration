@@ -1,0 +1,667 @@
+{
+    "name": "Rohan Sharma",
+    "description": "Software Engineer with experience in machine learning and AI.",
+    "education": {
+        "university": [
+            {
+                "name": "XYZ University",
+                "date_start": "2020-08-01",
+                "date_end": "2024-05-31",
+                "gpa": 3.5
+            }
+        ]
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "company": "ABC Corporation",
+            "date_start": "2022-06-01",
+            "date_end": "Present",
+            "description": "Worked on various machine learning projects, including natural language processing and computer vision.",
+            "technologies": ["Python", "TensorFlow", "PyTorch"]
+        },
+        {
+            "title": "Intern",
+            "company": "DEF Startups",
+            "date_start": "2021-06-01",
+            "date_end": "2021-08-31",
+            "description": "Worked on a project to develop a chatbot using machine learning and NLP.",
+            "technologies": ["Python", "Keras"]
+        },
+        {
+            "title": "Volunteer",
+            "company": "Local Charity",
+            "date_start": "2020-09-01",
+            "date_end": "2021-08-31",
+            "description": "Assisted with data analysis and visualization for a non-profit organization.",
+            "technologies": ["Python", "Matplotlib"]
+        }
+    ],
+    "volunteering": [
+        {
+            "title": "Data Analyst",
+            "organization": "Local Charity",
+            "date_start": "2020-09-01",
+            "date_end": "2021-08-31",
+            "description": "Analyzed data to identify trends and insights for a non-profit organization."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Machine Learning",
+            "level": 5
+        },
+        {
+            "name": "NLP",
+            "level": 4
+        },
+        {
+            "name": "Data Science",
+            "level": 3
+        }
+    ],
+    "soft_skills": [
+        {
+            "name": "Communication",
+            "level": 9
+        },
+        {
+            "name": "Collaboration",
+            "level": 8
+        },
+        {
+            "name": "Problem-Solving",
+            "level": 7
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": 10
+        },
+        {
+            "name": "Hindi",
+            "proficiency": 8
+        },
+        {
+            "name": "Spanish",
+            "proficiency": 5
+        }
+    ],
+    "learning_languages": [
+        {
+            "name": "French",
+            "level": 1
+        },
+        {
+            "name": "German",
+            "level": 2
+        },
+        {
+            "name": "Chinese",
+            "level": 3
+        }
+    ],
+    "common_interview_questions": [
+        {
+            "type": "text",
+            "question": ["Tell me about yourself"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "My name is Rohan Sharma, and I'm a software engineer with a strong passion for machine learning and AI. I've been working in the industry for several years, and I've had the opportunity to work on various projects that have helped me develop my skills and expertise."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["How old are you"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I'm currently 28 years old."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["What's your favorite programming language"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked with several programming languages, but my favorite is Python. I love its simplicity and flexibility."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you give an example of a project you worked on"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project that stands out is when I worked with a team to develop a machine learning model for natural language processing. We designed the model, trained it, and deployed it in production."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Tell me something about yourself that's not on your resume"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I'm a certified scuba diver and enjoy traveling to new places. I believe that this experience has helped me develop my problem-solving skills and adaptability."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["What do you think are the most important qualities of a software engineer"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I believe that the most important qualities of a software engineer are curiosity, problem-solving skills, and effective communication. These traits enable me to learn new technologies quickly, troubleshoot issues efficiently, and work collaboratively with team members."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with machine learning"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on several machine learning projects, including natural language processing and computer vision. I've developed a strong understanding of the basics of machine learning, including supervised and unsupervised learning, regression, classification, clustering, etc."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about your experience with Agile development"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on several projects that have used Agile development methodologies. I believe that Agile is a flexible and adaptive approach to project management, and I enjoy the iterative nature of it."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with data structures and algorithms"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've studied data structures and algorithms in depth, including arrays, linked lists, stacks, queues, trees, graphs, etc. I'm proficient in implementing algorithms using different programming languages."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that failed"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project that didn't go as planned was when we tried to implement a new feature without properly testing it first. We encountered several bugs and had to spend additional time debugging the issue."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with version control systems"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked with Git for several years, including creating and managing repositories, branching, merging, and resolving conflicts."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to learn something new quickly"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I had to learn a new programming language in a short amount of time was when I was working on a project and the lead engineer suddenly changed the technology stack. I had to quickly learn the new language and adapt my codebase accordingly."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with testing"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've written unit tests, integration tests, and end-to-end tests for my projects. I believe that testing is an essential part of the software development process."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that had a significant impact"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project that had a significant impact was when we developed a machine learning model for a client. The model helped the client improve their sales predictions and revenue by 20%."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with design patterns"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've studied design patterns in depth, including creational, structural, and behavioral patterns. I'm proficient in implementing these patterns using different programming languages."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to work with someone who had a different work style"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I had to work with someone who had a very different work style than mine. We had to compromise and find common ground to deliver the project successfully."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with performance optimization"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've optimized performance in several projects, including reducing memory usage and improving database queries."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved data visualization"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved creating a data visualization dashboard for a client. The dashboard helped the client identify trends and insights in their data."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with cloud computing"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked with cloud computing platforms, including AWS and Azure. I'm proficient in deploying applications to the cloud and managing infrastructure."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to learn from your mistakes"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I learned from my mistakes was when I made an error in my code that caused the application to crash. I had to debug the issue and fix it, which taught me the importance of testing and debugging."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with machine learning algorithms"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've studied machine learning algorithms in depth, including supervised and unsupervised learning. I'm proficient in implementing these algorithms using different programming languages."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved collaboration with a team"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved collaborating with a team to develop a new feature. We had to communicate effectively and work together to deliver the feature successfully."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with testing frameworks"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked with testing frameworks, including Pytest and Unittest. I'm proficient in writing tests and debugging issues."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to make a difficult decision"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I made a difficult decision was when I had to choose between two competing project requirements. I had to weigh the pros and cons of each option and make a decision that was best for the team."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with continuous integration"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that have used continuous integration. I'm proficient in integrating code changes and running automated tests."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved data security"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved implementing data encryption and secure access controls. The goal was to protect sensitive client data."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with distributed systems"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve distributed systems, including microservices and event-driven architecture. I'm proficient in designing and implementing distributed systems."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to learn a new programming language"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I learned a new programming language was when I decided to switch from Java to Python. It took some time, but I eventually became proficient in the new language."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with performance monitoring"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve performance monitoring, including monitoring application performance and server-side metrics."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved machine learning"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved developing a machine learning model for a client. The goal was to predict customer churn based on various data features."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with front-end development"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve front-end development, including HTML, CSS, and JavaScript. I'm proficient in building user interfaces and developing responsive web applications."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to work with someone who was difficult"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I had to work with someone who was difficult was when we were working on a team project. We had different working styles, and it took some effort to find common ground and deliver the project successfully."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with design principles"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've studied design principles in depth, including clean code, simplicity, and readability. I'm proficient in applying these principles to my work."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved data analytics"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved analyzing customer data and predicting sales trends. The goal was to identify opportunities for improvement."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with cloud security"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve cloud security, including AWS and Azure. I'm proficient in securing applications and data in the cloud."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to make a technical decision"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I made a technical decision was when I decided to use a certain data structure for a project. The goal was to optimize performance and reduce memory usage."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with continuous deployment"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve continuous deployment, including integrating code changes and running automated tests."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved machine learning"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved developing a machine learning model for a client. The goal was to predict customer churn based on various data features."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with front-end testing"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve front-end testing, including unit tests and integration tests."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to work with someone who had a different culture"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I worked with someone from a different culture was when we were working on a team project. We had to adapt to each other's working styles and find common ground."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with machine learning engineering"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve machine learning engineering, including designing and implementing models, data preprocessing, and deployment."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved data mining"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved analyzing customer data and identifying trends. The goal was to identify opportunities for improvement."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with data warehousing"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve data warehousing, including designing and implementing ETL processes."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to learn from your mistakes"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I learned from my mistakes was when I made an error in my code that caused the application to crash. I had to debug the issue and fix it, which taught me the importance of testing and debugging."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with distributed systems"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve distributed systems, including microservices and event-driven architecture. I'm proficient in designing and implementing distributed systems."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved machine learning"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved developing a machine learning model for a client. The goal was to predict customer churn based on various data features."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with DevOps"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve DevOps, including continuous integration and deployment. I'm proficient in using tools like Jenkins and Docker."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to work with someone who was difficult"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I had to work with someone who was difficult was when we were working on a team project. We had different working styles, and it took some effort to find common ground and deliver the project successfully."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with data architecture"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve data architecture, including designing and implementing data models and ETL processes."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved machine learning"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved developing a machine learning model for a client. The goal was to predict customer churn based on various data features."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with front-end development"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve front-end development, including HTML, CSS, and JavaScript. I'm proficient in building user interfaces and developing responsive web applications."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to work with someone who was difficult"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I had to work with someone who was difficult was when we were working on a team project. We had different working styles, and it took some effort to find common ground and deliver the project successfully."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with data engineering"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve data engineering, including designing and implementing data pipelines and ETL processes."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a project you worked on that involved machine learning"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One project I worked on involved developing a machine learning model for a client. The goal was to predict customer churn based on various data features."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you describe your experience with DevOps"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "I've worked on projects that involve DevOps, including continuous integration and deployment. I'm proficient in using tools like Jenkins and Docker."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "question": ["Can you tell me about a time when you had to work with someone who was difficult"],
+            "answer_template": [
+                {
+                    "type": "text",
+                    "template": "One time I had to work with someone who was difficult was when we were working on a team project. We had different working styles, and it took some effort to find common ground and deliver the project successfully."
+                }
+            ]
+        }
+    ]
+}
